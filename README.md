@@ -1,6 +1,6 @@
 # 3D Planets
 
-[Live demo](https://ghj.hjk)
+[Live demo](https://3d-planets-murex.vercel.app)
 
 ## 📋 Table of Contents
 
