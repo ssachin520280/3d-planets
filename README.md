@@ -58,5 +58,3 @@ cd 3d-planets
 npm i
 npm run dev
 ```
-
-Feel free to customize this README file to better suit the specific needs and details of your project. Happy coding! 🚀
